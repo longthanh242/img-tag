@@ -61,8 +61,13 @@ html, body {
     text-transform: uppercase;
 }
 
+.content-section {
+    background-color: #fff;
+    padding: 64px 32px;
+}
+
 .place-list {
-    margin-top: 32px;
+    margin: 32px ;
 }
 
 .place-item {
